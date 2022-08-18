@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[Alchemy R2W3 Week10 How to Create a Decentralized Twitter with Lense Protocol](https://docs.alchemy.com/docs/how-to-create-a-decentralized-twitter-with-lens-protocol).
+
 ## Getting Started
 
 First, run the development server:
